@@ -1,2 +1,2 @@
-# cereal
-breakfast
+# Cereal
+Breakfast
